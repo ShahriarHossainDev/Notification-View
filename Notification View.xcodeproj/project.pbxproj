@@ -16,7 +16,6 @@
 		FAD87FE529BC590500A49161 /* SelectionScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD87FE429BC590500A49161 /* SelectionScreenViewController.swift */; };
 		FAE5458B29BC761E00FD7E2B /* LocalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE5458A29BC761E00FD7E2B /* LocalViewController.swift */; };
 		FAE5458D29BC7C2B00FD7E2B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE5458C29BC7C2B00FD7E2B /* Constants.swift */; };
-		FAE5458F29BC7D3F00FD7E2B /* PushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE5458E29BC7D3F00FD7E2B /* PushViewController.swift */; };
 		FAE5459129BC7E4A00FD7E2B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FAE5459029BC7E4A00FD7E2B /* GoogleService-Info.plist */; };
 		FAE5459429BC7FC500FD7E2B /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = FAE5459329BC7FC500FD7E2B /* FirebaseAnalytics */; };
 		FAE5459629BC7FC500FD7E2B /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = FAE5459529BC7FC500FD7E2B /* FirebaseMessaging */; };
@@ -34,7 +33,6 @@
 		FAD87FE429BC590500A49161 /* SelectionScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionScreenViewController.swift; sourceTree = "<group>"; };
 		FAE5458A29BC761E00FD7E2B /* LocalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalViewController.swift; sourceTree = "<group>"; };
 		FAE5458C29BC7C2B00FD7E2B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		FAE5458E29BC7D3F00FD7E2B /* PushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushViewController.swift; sourceTree = "<group>"; };
 		FAE5459029BC7E4A00FD7E2B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,7 +87,6 @@
 				FAD87FE229BC58F000A49161 /* HomeViewController.swift */,
 				FAD87FE429BC590500A49161 /* SelectionScreenViewController.swift */,
 				FAE5458A29BC761E00FD7E2B /* LocalViewController.swift */,
-				FAE5458E29BC7D3F00FD7E2B /* PushViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,7 +184,6 @@
 				FAD87FE329BC58F000A49161 /* HomeViewController.swift in Sources */,
 				FAD87FE529BC590500A49161 /* SelectionScreenViewController.swift in Sources */,
 				FAE5458D29BC7C2B00FD7E2B /* Constants.swift in Sources */,
-				FAE5458F29BC7D3F00FD7E2B /* PushViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
